@@ -2,8 +2,8 @@
 
 Pre-Requisites:
 
-Microsoft Visual Studio 2019
-.Net Core 3.1
+1. Microsoft Visual Studio 2019
+2. .Net Core 3.1
 
 STEPS TO RUN THE APP:-
 
